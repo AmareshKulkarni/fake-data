@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "firstname": "John",
+            "lastname": "Doe",
+            "NPI": "123456789",
+            "address": "123 Main st",
+            "city": "Lewis Center",
+            "state": "OH",
+            "zipcode": "43035"
+        },
+        {
+            "firstname": "Jane",
+            "lastname": "Doe",
+            "NPI": "9988776655",
+            "address": "476 Main st",
+            "city": "Lewis Center",
+            "state": "OH",
+            "zipcode": "43035"
+        }
+    ]
+}
