@@ -1,22 +1,47 @@
-{
-    "providers": [
-        {
-            "firstname": "Jim",
-            "lastname": "Doe",
-            "NPI": "123456789",
-            "address": "123 Main st",
-            "city": "Lewis Center",
-            "state": "OH",
-            "zipcode": "43035"
-        },
-        {
-            "firstname": "Jane",
-            "lastname": "Doe",
-            "NPI": "9988776655",
-            "address": "476 Main st",
-            "city": "Lewis Center",
-            "state": "OH",
-            "zipcode": "43035"
-        }
-    ]
-}
+[
+    {
+      "id": "vp-001",
+      "programName": "Community Food Bank Support",
+      "locationName": "Downtown Community Center",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "description": "Help sort, pack, and distribute food to local families in need.",
+      "startDate": "2026-02-01",
+      "endDate": "2026-06-30",
+      "volunteerCapacity": 25,
+      "skillsRequired": ["Teamwork", "Basic lifting"],
+      "isRemote": false,
+      "status": "open"
+    },
+    {
+      "id": "vp-002",
+      "programName": "Beach Cleanup Initiative",
+      "locationName": "Santa Monica Beach",
+      "city": "Santa Monica",
+      "state": "CA",
+      "country": "USA",
+      "description": "Join weekly beach cleanups to reduce plastic waste and protect marine life.",
+      "startDate": "2026-03-15",
+      "endDate": "2026-09-15",
+      "volunteerCapacity": 50,
+      "skillsRequired": ["Environmental awareness"],
+      "isRemote": false,
+      "status": "open"
+    },
+    {
+      "id": "vp-003",
+      "programName": "Virtual Tutoring for Students",
+      "locationName": "Online",
+      "city": null,
+      "state": null,
+      "country": "Global",
+      "description": "Provide online academic support to middle school students.",
+      "startDate": "2026-01-20",
+      "endDate": "2026-12-20",
+      "volunteerCapacity": 100,
+      "skillsRequired": ["Teaching", "Communication"],
+      "isRemote": true,
+      "status": "ongoing"
+    }
+  ]
